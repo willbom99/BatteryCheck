@@ -59,3 +59,42 @@ typings/
 
 # next.js build output
 .next
+
+# ===========================
+# Operating System files
+#================================
+
+# Windows
+#==================================
+
+# Windows image file caches
+thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Resycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shotcuts
+*.lnk
+
+# Local bat file
+*.bat
+
+# Local Windows Executable file
+*.exe
+
+# ==============================
+# Others
+# ================================
+
+# Working folder and file
+data/*.html
